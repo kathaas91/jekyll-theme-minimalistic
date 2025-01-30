@@ -21,9 +21,5 @@ platforms:
 navigation:
   name: Professional
     sublist:
-      - name: Image
-        link: 
-  name: Personal
-  sublist:
-      - name: How To Install Skyrim SE Mods With MO2
-        link: 
+      - name: Test
+        link:
