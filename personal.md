@@ -1,6 +1,3 @@
-<details>
-  <summary>How To Install Skyrim SE Mods With MO2</summary>  
-  
 # How To Install Skyrim SE Mods With MO2    
 *The audience for this guide is a friend with rudimentary knowledge of modding video games with Mod Organizer 2.*
 
@@ -78,6 +75,4 @@ On the upper right hand side of MO2 is a dropdown box with links to all the exce
 6. SKSE64 has now been added to the dropdown box.
 7. Select SKSE64 then click “Run.”
 8. The game will now boot up via the script extender with SkyUI running.
-9. It is recommended to add a shortcut to this exe to easily launch the MO2 instance.  
-  
-</details>
+9. It is recommended to add a shortcut to this exe to easily launch the MO2 instance.
