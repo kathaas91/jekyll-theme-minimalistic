@@ -46,8 +46,7 @@ You are now on the MO2 home screen! The first thing we need to do here is link M
 4. In MO2 click “Associate with “Download with manager” links and if prompted click “Yes.” This will ensure that when choosing to download mods from Nexus with a mod manager that they will be downloaded through MO2. 
 5. Restart MO2 if prompted and click “Yes” to set up MO2 to handle nxm links.
 
-![image](https://github.com/user-attachments/assets/1bf2db15-a428-40fb-9c8a-c9d73f3a5095)  
-^This is a test image
+![image]()
 
 You are now ready to start downloading mods!
 
