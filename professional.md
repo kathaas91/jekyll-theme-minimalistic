@@ -1,2 +1,2 @@
 Links go here.  
-[User Manual](docs/QTrakUserManual2025.pdf)
+[User Manual - PDF](docs/QTrakUserManual2025.pdf)
