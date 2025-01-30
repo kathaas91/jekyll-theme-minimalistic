@@ -19,11 +19,11 @@ platforms:
     link: https://www.linkedin.com/in/katherine-haas
 
 navigation:
-  - name: Professional
+  name: Professional
     sublist:
       - name: Image
         link: ./index.html#small-image
-  - name: Personal
+  name: Personal
   sublist:
       - name: Image
         link: ./index.html#small-image
