@@ -20,8 +20,8 @@ platforms:
 
 navigation:
   - name: About Me
-    link: assets/docs/index.html
+    link: /index.html
   - name: Professional
-    link: assets/docs/professional.html
+    link: /professional.html
   - name: Personal
-    link: assets/docs/personal.html
+    link: /personal.html
