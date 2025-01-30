@@ -1,3 +1,6 @@
+<details>
+  <summary>How To Install Skyrim SE Mods With MO2</summary>
+
 # How To Install Skyrim SE Mods With MO2    
 *The audience for this guide is a friend with rudimentary knowledge of modding video games with Mod Organizer 2.*
 
@@ -46,8 +49,6 @@ You are now on the MO2 home screen! The first thing we need to do here is link M
 4. In MO2 click “Associate with “Download with manager” links and if prompted click “Yes.” This will ensure that when choosing to download mods from Nexus with a mod manager that they will be downloaded through MO2. 
 5. Restart MO2 if prompted and click “Yes” to set up MO2 to handle nxm links.
 
-![image]()
-
 You are now ready to start downloading mods!
 
 ## Downloading Mods From Nexus With MO2  
@@ -78,3 +79,5 @@ On the upper right hand side of MO2 is a dropdown box with links to all the exce
 7. Select SKSE64 then click “Run.”
 8. The game will now boot up via the script extender with SkyUI running.
 9. It is recommended to add a shortcut to this exe to easily launch the MO2 instance.
+
+</details>
