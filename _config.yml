@@ -22,6 +22,6 @@ navigation:
   - name: About Me
     link: ./index.html
   - name: Professional
-    link: ./index.html
+    link: ./professional.html
   - name: Personal
-    link: ./another-page.html
+    link: ./personal.html
