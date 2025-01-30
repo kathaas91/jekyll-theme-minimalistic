@@ -1,7 +1,7 @@
 title: Kat Haad
 logo: /assets/img/logo.jpg
 email: kathaas@msn.com
-description: Minimalistic is a theme powered by Jekyll.
+description: This is a hub for my technical writing work.
 favicon: true
 color-scheme: auto
 
@@ -22,8 +22,8 @@ navigation:
   name: Professional
     sublist:
       - name: Image
-        link: ./index.html#small-image
+        link: 
   name: Personal
   sublist:
-      - name: Image
-        link: ./index.html#small-image
+      - name: How To Install Skyrim SE Mods With MO2
+        link: 
