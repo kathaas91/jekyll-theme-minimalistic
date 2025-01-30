@@ -1,1 +1,4 @@
-Links go here 2.
+Links
+navigation:
+  - name: Skryim
+    link: ./how_to_skyrim.html
