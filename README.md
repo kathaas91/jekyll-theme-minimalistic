@@ -12,6 +12,5 @@ My body of work includes:
 * FAQs and Knowledge Bases
 * Software installation guides
 * Software feature tutorials
-* Internal documentation
 
 Thank you for taking the time to view my portfolio. You may contact me via [LinkedIn](https://www.linkedin.com/in/katherine-haas/) or at [kathaas@msn.com](mailto:kathaas@msn.com).
