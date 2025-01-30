@@ -19,15 +19,15 @@ platforms:
     link: https://www.linkedin.com/in/katherine-haas
 
 navigation:
-  name: Home
-  link: ./index.html
-  name: Professional
-  link: ./index.html
-  sublist:
-    - name: 1
-      link: ./index.html#small-image
-  name: Personal
-  link: ./another-page.html
-  sublist:
-    - name: 2
-      link: ./index.html#small-image
+  - name: About Me
+    link: ./index.html
+  - name: Professional
+    link: ./index.html
+    sublist:
+      - name: 1
+        link: ./index.html#small-image
+  - name: Personal
+    link: ./another-page.html
+    sublist:
+      - name: 2
+        link: ./index.html#small-image
