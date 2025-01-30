@@ -5,6 +5,14 @@ description: This is a hub for my technical writing work.
 favicon: true
 color-scheme: auto
 
+navigation:
+  - name: About Me
+    link: ./index.html
+  - name: Professional
+    link: ./professional.html
+  - name: Personal
+    link: ./personal.html
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -18,10 +26,4 @@ platforms:
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/katherine-haas
 
-navigation:
-  - name: About Me
-    link: ./index.html
-  - name: Professional
-    link: ./professional.html
-  - name: Personal
-    link: ./personal.html
+
