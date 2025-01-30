@@ -1,3 +1,3 @@
 Links go here.  
-[User Manual - PDF](docs/usermanual.pdf)  
-[Printing QR Codes With Avery](docs/printingqrcodes.pfg)
+[User Manual - PDF](assets/docs/usermanual.pdf)  
+[Printing QR Codes With Avery](assets/docs/printingqrcodes.pfg)
