@@ -1,5 +1,3 @@
-*The audience for this guide is a friend with rudimentary knowledge of modding video games with Mod Organizer 2.*
-
 # How To Install Skyrim SE Mods With MO2  
 The Elder Scrolls V: Skyrim is an open-world RPG developed by Bethesda Game Studios and released in 2011. It has received several ports and upgrades over the years. For the purposes of this guide we will be using the "Special Edition" from the Steam store.  
 
