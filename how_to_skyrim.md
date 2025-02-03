@@ -77,3 +77,5 @@ On the upper right hand side of MO2 is a dropdown box with links to all the exce
 7. Select SKSE64 then click “Run.”
 8. The game will now boot up via the script extender with SkyUI running.
 9. It is recommended to add a shortcut to this exe to easily launch the MO2 instance.
+
+You have now successfully modded Skyrim SE! Enjoy your adventures!
