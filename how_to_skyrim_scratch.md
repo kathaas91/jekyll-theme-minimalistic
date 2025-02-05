@@ -24,7 +24,9 @@ To set up Skyrim to be modded, follow these steps:
 ## Installing SKSE64
 Skyrim Script Extender (SKSE64) is an essential utility for many mods that increases the functionality of Skyrim's game engine. It is important to check what version of Skyrim SE you installed and download the appropriate SKSE64 build.
 
-Open the downloaded zip folder and extract all of the files inside the skse64 folder into Skyrim's root folder (the folder where Skyrim's excecutables are located). Overwrite any existing files when prompted.
+Open the downloaded zip folder and extract all of the files inside the skse64 folder into Skyrim's root folder (the folder where Skyrim's excecutables are located). Overwrite any existing files when prompted. The root folder should look like this:
+
+![image](https://github.com/user-attachments/assets/69d9a597-c026-495d-9942-90d73d5edb89)
 
 ## Downloading Mods From Nexus Manually 
 For the purpose of this guide we will be installing SkyUI. SkyUI is the most endorsed mod of all time for Skyrim SE and is also a requirement for many other mods to function properly.
