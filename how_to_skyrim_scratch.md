@@ -44,12 +44,16 @@ For the majority of mods most or all of the mod files will go into the "Data" fo
 1. Once the download is done, open or extract the zip file containing the mod files.
 2. Copy all files from the mod folder and paste them in the Skyrim SE -> Data folder. Overwrite if necessary.
 
+INSERT IMAGE
+
 ## Activating Mods
 When manually modding Skyrim it is required to also manually activate or deactivate any installed mod files located in the "Data" folder via the Skyrim launcher.
 1. Launch the Skryim SE Launcher through Steam.
 2. Select "Data Files."
 3. Tick the box for "SkyUI_SE.esp."
 4. Apply and close the window and exist the launcher.
+
+INSERT IMAGES
 
 ## Launching Modded Skyrim
 SkyUI and many other mods require SKSE to load properly. This means that Skyrim needs to be run through the skse64.exe file installed earlier in this guide. While it can be run by navigating to the game folder every time you want to play the game, it is easier to either create a desktop shortcut or re-direct Steam to launch the game through SKSE instead of the launcher.
@@ -60,6 +64,8 @@ This method will automatically generate a shortcut to skse.exe on the desktop th
 2. Click "Show more options"
 3. Click "Send to" and choose "Desktop (create shortcut)."
 
+INSERT IMAGE
+
 ### Launching SKSE through Steam
 This method will change the path that Steam uses when looking for the game excecuteable, letting you continue to launch the game directly through Steam.
 1. Right click on Skyrim in your Steam library.
@@ -67,5 +73,7 @@ This method will change the path that Steam uses when looking for the game excec
 3. Click on "Set Launch Options..."
 4. Enter the file path for skse64.exe in quotes followed by %command%.
 For example: `"C:\Program Files (x86)\Steam\steamapps\common\SkyrimSpecialEdition\skse64.exe" %command%`
+
+INSERT IMAGES
 
 You have now successfully modded Skyrim SE! Enjoy your adventures!
