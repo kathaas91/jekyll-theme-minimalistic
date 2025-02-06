@@ -44,36 +44,35 @@ For the majority of mods most or all of the mod files will go into the "Data" fo
 1. Once the download is done, open or extract the zip file containing the mod files.
 2. Copy all files from the mod folder and paste them in the Skyrim SE -> Data folder. Overwrite if necessary.
 
-INSERT IMAGE
+![image](https://github.com/user-attachments/assets/de43b201-b696-45f9-ac19-6434dc24731e)
 
 ## Activating Mods
 When manually modding Skyrim it is required to also manually activate or deactivate any installed mod files located in the "Data" folder via the Skyrim launcher.
-1. Launch the Skryim SE Launcher through Steam.
-2. Select "Data Files."
-3. Tick the box for "SkyUI_SE.esp."
-4. Apply and close the window and exist the launcher.
+1. Launch Skyrim through Steam.
+3. Click "Creations" on the main menu.
+4. Press "T" to see your installed mods and click the box next to SkyUI to enable it.
+5. Press "ESC" twice to go back to the main menu. Press "OK" on the prompt.
 
-INSERT IMAGES
+![image](https://github.com/user-attachments/assets/44334f5c-d8f8-4d18-8667-fd6b2dd54d81)
+![410682698-270d8a54-2c39-4f82-8cd3-72811bf5c42a](https://github.com/user-attachments/assets/d472fed3-16a7-44d4-bedb-6c74fecd2d9a)
+![image](https://github.com/user-attachments/assets/c9ec5d14-5bf4-42dd-80f0-57aa840fe8e8)
 
 ## Launching Modded Skyrim
 SkyUI and many other mods require SKSE to load properly. This means that Skyrim needs to be run through the skse64.exe file installed earlier in this guide. While it can be run by navigating to the game folder every time you want to play the game, it is easier to either create a desktop shortcut or re-direct Steam to launch the game through SKSE instead of the launcher.
 
 ### Creating a desktop shortcut for SKSE
-This method will automatically generate a shortcut to skse.exe on the desktop that can be used to launch the game.
+This method will automatically generate a shortcut to skse64_loader.exe on the desktop that can be used to launch the game.
 1. Navigate to Skyrim's root folder and right-click on skse64.exe
 2. Click "Show more options"
 3. Click "Send to" and choose "Desktop (create shortcut)."
-
-INSERT IMAGE
 
 ### Launching SKSE through Steam
 This method will change the path that Steam uses when looking for the game excecuteable, letting you continue to launch the game directly through Steam.
 1. Right click on Skyrim in your Steam library.
 2. Click on "Properties"
-3. Click on "Set Launch Options..."
-4. Enter the file path for skse64.exe in quotes followed by %command%.
-For example: `"C:\Program Files (x86)\Steam\steamapps\common\SkyrimSpecialEdition\skse64.exe" %command%`
+4. In the "General" tab under "Launch Options" enter the file path for skse64_loader.exe in quotes followed by %command%.
+For example: `"C:\Program Files (x86)\Steam\steamapps\common\SkyrimSpecialEdition\skse64_loader.exe" %command%`
 
-INSERT IMAGES
+![image](https://github.com/user-attachments/assets/fa098b6f-d606-4f9e-8035-36c64d4b1b90)
 
 You have now successfully modded Skyrim SE! Enjoy your adventures!
