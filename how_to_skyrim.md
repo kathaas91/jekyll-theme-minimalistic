@@ -21,9 +21,9 @@ To set up Skyrim to be modded, follow these steps:
 5. Once the main menu has loaded, exit back to your desktop.
 
 ## Installing SKSE64
-Skyrim Script Extender (SKSE64) is an essential utility for many mods that increases the functionality of Skyrim's game engine. It is important to check what version of Skyrim SE you installed and download the appropriate SKSE64 build.
+Skyrim Script Extender (SKSE64) is an essential utility for many mods that increases the functionality of Skyrim's game engine. It is important to check what version of Skyrim SE you installed and download the appropriate  build.
 
-Open the downloaded zip folder and extract all of the files inside the skse64 folder into Skyrim's root folder (the folder where Skyrim's excecutables are located). Overwrite any existing files when prompted. The root folder should look like this:
+Open the downloaded zip folder and extract all of the files inside the  folder into Skyrim's root folder (the folder where Skyrim's excecutables are located). Overwrite any existing files when prompted. The root folder should look like this:
 
 ![image](https://github.com/user-attachments/assets/69d9a597-c026-495d-9942-90d73d5edb89)
 
@@ -82,7 +82,7 @@ SKSE will likely be automatically added as an excecuteable by MO2 when it detect
 1. Click on the dropdown box and click “Edit” at the very top. This menu shows the details for every exe file in this instance.
 2. Click the + button above the excecutables list.
 3. Click “Add from file.”
-4. Navigate to the Skyrim SE root folder and select skse64.exe.
+4. Navigate to the Skyrim SE root folder and select skse64_loader.exe.
 5. Change the title of the exe if you wish, then click “Apply” then “OK.”
 6. SKSE64 has now been added to the dropdown box.
 7. Select SKSE64 then click “Run.”
